@@ -1,13 +1,4 @@
-# Pre-work - *Name of App Here*
 
-**Name of your app** is a tip calculator application for iOS.
-
-Submitted by: **Leo Liu**
-
-Time spent: **0** hours spent in total
-
-
-## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
